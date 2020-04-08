@@ -1,0 +1,100 @@
+{
+  "columns": [
+    {
+      "name": "referenceUrl",
+      "titles": "Accession",
+      "datatype": { 
+          "valueUrl" : "https://www.ncbi.nlm.nih.gov/nuccore/{referenceUrl}",
+          "base" :"string"
+      }
+    },
+    {
+      "name": "Release_Date",
+      "titles": "Release_Date",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonSpecificEpithet",
+      "titles": "Species",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonGenus",
+      "titles": "Genus",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonFamily",
+      "titles": "Family",
+      "datatype": "string"
+    },
+    {
+      "name": "Length",
+      "titles": "Length",
+      "datatype": "string"
+    },
+    {
+      "name": "Nuc_Completeness",
+      "titles": "Nuc_Completeness",
+      "datatype": "string"
+    },
+    {
+      "name": "Genotype",
+      "titles": "Genotype",
+      "datatype": "string"
+    },
+    {
+      "name": "Genome_Region",
+      "titles": "Genome_Region",
+      "datatype": "string"
+    },
+    {
+      "name": "Segment",
+      "titles": "Segment",
+      "datatype": "string"
+    },
+    {
+      "name": "referenceAuthors",
+      "titles": "Authors",
+      "datatype": "string"
+    },
+    {
+      "name": "Publications",
+      "titles": "Publications",
+      "datatype": { 
+          "valueUrl" : "https://www.ncbi.nlm.nih.gov/pubmed/{Publications}",
+          "base" :"string"
+      }
+    },
+    {
+      "name": "localityName",
+      "titles": "Geo_Location",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "Host",
+      "datatype": "string"
+    },
+    {
+      "name": "targetBodyPartName",
+      "titles": "Isolation_Source",
+      "datatype": "string"
+    },
+    {
+      "name": "http://rs.tdwg.org/dwc/terms/eventDate",
+      "titles": "Collection_Date",
+      "datatype": "string"
+    },
+    {
+      "name": "BioSample",
+      "titles": "BioSample",
+      "datatype": "string"
+    },
+    {
+      "name": "referenceCitation",
+      "titles": "GenBank_Title",
+      "datatype": "string"
+    }
+  ]
+}
