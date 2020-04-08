@@ -5,4 +5,4 @@ Eneida L. Hatcher, Sergey A. Zhdanov, Yiming Bao, Olga Blinkova, Eric P. Nawrock
 
 Data accessed via https://www.ncbi.nlm.nih.gov/labs/virus/ .
 
-To be made available through http://globalbioticinteractions.org  .
+To be made available through http://globalbioticinteractions.org .
