@@ -1,5 +1,5 @@
 # ncbi-virus
-[![Build Status](https://travis-ci.org/globalbioticinteractions/ncbi-virus.svg)](https://travis-ci.org/globalbioticinteractions/ncbi-virus) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/ncbi-virus)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/ncbi-virus)
+[![Build Status](https://travis-ci.org/globalbioticinteractionz/ncbi-virus.svg)](https://travis-ci.org/globalbioticinteractionz/ncbi-virus) [![GloBI](http://api.globalbioticinteractionz.org/interaction.svg?accordingTo=globi:globalbioticinteractionz/ncbi-virus)](http://globalbioticinteractionz.org/?accordingTo=globi:globalbioticinteractionz/ncbi-virus)
 
 This repository contains configuration for GloBI to help index:
 
@@ -7,4 +7,4 @@ Eneida L. Hatcher, Sergey A. Zhdanov, Yiming Bao, Olga Blinkova, Eric P. Nawrock
 
 Data accessed via https://www.ncbi.nlm.nih.gov/labs/virus/ .
 
-To be made available through http://globalbioticinteractions.org .
+To be made available through http://globalbioticinteractionz.org .
