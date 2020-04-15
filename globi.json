@@ -11,7 +11,7 @@
   "tables": [
     {
       "tableSchema": "schema.json",
-      "url": "sequences.csv.gz",
+      "url": "sequences-coronaviridae-only.csv.gz",
       "_doi": "10.1093/nar/gkw1065",
       "dcterms:bibliographicCitation": "Eneida L. Hatcher, Sergey A. Zhdanov, Yiming Bao, Olga Blinkova, Eric P. Nawrocki, Yuri Ostapchuck, Alejandro A. Schäffer, J. Rodney Brister, Virus Variation Resource – improved response to emergent viral outbreaks, Nucleic Acids Research, Volume 45, Issue D1, January 2017, Pages D482–D490, https://doi.org/10.1093/nar/gkw1065 . Data downloaded via https://www.ncbi.nlm.nih.gov/labs/virus/vssi on 2020-03-14", 
       "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002454",
