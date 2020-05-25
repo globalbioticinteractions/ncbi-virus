@@ -14,7 +14,7 @@
       "datatype": "string"
     },
     {
-      "name": "sourceTaxonSpecificEpithet",
+      "name": "sourceTaxonSpecies",
       "titles": "Species",
       "datatype": "string"
     },
