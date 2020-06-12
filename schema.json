@@ -34,6 +34,11 @@
       "datatype": "string"
     },
     {
+      "name": "Sequence_Type",
+      "titles": "Sequence_Type",
+      "datatype": "string"
+    },
+    {
       "name": "Nuc_Completeness",
       "titles": "Nuc_Completeness",
       "datatype": "string"
@@ -41,11 +46,6 @@
     {
       "name": "Genotype",
       "titles": "Genotype",
-      "datatype": "string"
-    },
-    {
-      "name": "Genome_Region",
-      "titles": "Genome_Region",
       "datatype": "string"
     },
     {
