@@ -1,5 +1,5 @@
 # ncbi-virus
-[![Build Status](https://travis-ci.com/globalbioticinteractions/ncbi-virus.svg)](https://travis-ci.com/globalbioticinteractions/ncbi-virus) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/ncbi-virus)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/ncbi-virus)
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/ncbi-virus)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/ncbi-virus)
 
 This repository contains configuration for GloBI to help index:
 
