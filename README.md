@@ -9,4 +9,6 @@ Data accessed via https://www.ncbi.nlm.nih.gov/labs/virus/ .
 
 To be made available through http://globalbioticinteractions.org .
 
-Note that, for now, only Coronaviridae are included. 
+Note that, for now, only Coronaviridae with non-human hosts are included. See https://github.com/globalbioticinteractions/ncbi-virus/issues/1 for motivation. 
+
+
